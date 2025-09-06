@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WTW_EO_DotNet_WorkPulse/v17
+/.vs/WTW_EO_DotNet_WorkPulse/FileContentIndex
+/.vs
