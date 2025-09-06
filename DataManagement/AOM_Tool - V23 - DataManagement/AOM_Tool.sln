@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOM_Tool", "AOM_Tool\AOM_Tool.csproj", "{6FF4F39E-DF61-4188-923C-7707E90A0EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF4F39E-DF61-4188-923C-7707E90A0EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF4F39E-DF61-4188-923C-7707E90A0EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF4F39E-DF61-4188-923C-7707E90A0EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF4F39E-DF61-4188-923C-7707E90A0EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

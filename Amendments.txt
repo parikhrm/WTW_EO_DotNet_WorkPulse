@@ -1,0 +1,20 @@
+Total idle
+total Break
+total Core Time
+total Login Time
+Multiple tasks should not be there
+Time Diff between DateTime and DateTime_Final
+
+modify Start and End
+Comments to be mandatory  for certain activities
+
+Pop message for idle time for more than 10 mins
+
+All team names option to be visible along with default team name
+
+Volumes column should be editable
+
+///28th June 2023
+Non core mails should not exceeed 15 mins. Pop up message
+
+Half Day : change the contract hours

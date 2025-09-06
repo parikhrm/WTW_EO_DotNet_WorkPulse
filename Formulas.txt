@@ -1,0 +1,4 @@
+Productivity = workout (only core)/coretime[total time(contractual hours) - Diverted]
+SDPM Utilization% : Total Core [(Diverted - only core) + core Time]  / Time Worked (total time(contractual hours))
+
+
